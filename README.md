@@ -48,7 +48,7 @@
 ### 📫 Onde me encontrar
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/brunaconrado/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bruna.veloso@cdados.uniceplac.edu.br">
